@@ -14,6 +14,4 @@
 
 🌱 **Learning Path**: Continuously learning and expanding my skill set in both depth and breadth.
 
-🏆 **Achievements**: Honored at the fourth programming competition at Qassim University (02/2024).
-
 📞 **Let's Connect**: Whether it's a project collaboration or just a tech chat, feel free to reach out!
