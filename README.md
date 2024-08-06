@@ -4,7 +4,7 @@
 
 💼 **Experience**: Freelancer with a knack for developing and delivering custom software solutions. I've also got my hands on machine learning concepts through projects, showcasing my versatility in tech.
 
-🎓 **Education**: Pursuing a Bachelor's in Computer Science at Qassim University with an impressive GPA of 4.89/5.
+
 
 🛠 **Skills**:
 - **Programming Languages**: Proficient in Python; familiar with JavaScript, HTML, CSS, and PHP.
